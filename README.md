@@ -1,3 +1,2 @@
 # ALT_F4_ITE10NO1_Portfolio
-hi, paki try click ang "<> code" ---> "download zip" ----> after na download nimo try, "extract all" kay para ma extract ang file kay gikan na siya sa zip file para ma work ang wesbite then click ang html file para ma open ang website then makita nimo ang website
-
+Hello! If you want to view this project, you try to click the "<> code" then look down to click the "download zip" and after that, you go yo your files and search the file and click "extract all" or "extract the zip file" to make the file get extracted because it is in zip and finally, you click the html file to view the websites. Thanks for reading.
